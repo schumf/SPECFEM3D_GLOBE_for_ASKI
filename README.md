@@ -1,3 +1,5 @@
+### This fork represents the status of repository [SPECFEM3D_GLOBE_for_ASKI](https://github.com/seismology-RUB/SPECFEM3D_GLOBE_for_ASKI) as of December 2016, when Florian Schumacher (@schumf) left the ASKI development team. It is not intended to be modified. 
+
 # SPECFEM3D_GLOBE for ASKI
 
 ### Extension package for [ASKI](https://github.com/seismology-RUB/ASKI): use [SPECFEM3D_GLOBE](https://github.com/geodynamics/specfem3d_globe) for solving the seismic forward problem
